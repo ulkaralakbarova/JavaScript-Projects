@@ -1,2 +1,5 @@
 window.alert("Hello, World!");
-document.write("Hello, World!");
+
+var A = "This is my first JavaScript variable";
+
+document.write(A);
