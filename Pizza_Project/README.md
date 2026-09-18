@@ -2,9 +2,9 @@
 
 This repository contains the projects and assignments I completed during my JavaScript course. These projects demonstrate my understanding of JavaScript fundamentals, HTML, CSS, functions, events, variables, and interactive web applications.
 
-## Projects and Assignments
+ Projects and Assignments
 
-### Basic JavaScript Projects
+ Basic JavaScript Projects
 
 During this section of the course, I completed several exercises and assignments introducing JavaScript fundamentals.
 
@@ -19,7 +19,7 @@ Topics covered include:
 - JavaScript events
 - Working with buttons and user interaction
 
-### Project 1 – Expressions and Variables
+ Project 1 – Expressions and Variables
 
 This project introduced basic JavaScript expressions and variables.
 
@@ -31,13 +31,13 @@ I practiced:
 - Connecting JavaScript to HTML
 - Displaying JavaScript results in a webpage
 
-### Event Challenge
+ Event Challenge
 
 For the Event Challenge, I researched and implemented an HTML/JavaScript event.
 
 This assignment helped demonstrate how JavaScript can respond to actions performed by the user in the browser.
 
-### Function Assignment
+ Function Assignment
 
 For this assignment, I created a JavaScript function that:
 
@@ -47,20 +47,20 @@ For this assignment, I created a JavaScript function that:
 - Used a button to execute a JavaScript function
 - Displayed the result on the webpage
 
-### Pizza Project – Ulkar Pizza
+ Pizza Project – Ulkar Pizza
 
-The Pizza Project is an interactive pizza ordering application created with HTML, CSS, and JavaScript.
+ Pizza Project is an interactive pizza ordering application created with HTML, CSS, and JavaScript.
 
 The application allows the user to customize a pizza and automatically calculates the order total.
 
-#### Pizza Size Options
+ Pizza Size Options
 
 - Personal Pizza
 - Medium Pizza
 - Large Pizza
 - Extra Large Pizza
 
-Vegetable Toppings
+ Vegetable Toppings
 
 - Mushrooms
 - Onions
@@ -77,7 +77,7 @@ Vegetable Toppings
 - Anchovy
 - Chicken
 
-#### Pizza Project Features
+ Pizza Project Features
 
 - Select a pizza size
 - Select multiple vegetable toppings
@@ -93,13 +93,13 @@ Vegetable Toppings
 
 Created the HTML structure for the pizza ordering application, including radio buttons for pizza sizes and checkboxes for toppings.
 
-Pizza Menu CSS Assignment
+ Pizza Menu CSS Assignment
 
 Added CSS styling to organize and customize the pizza menu.
 
 The project was customized with a red background and white text and renamed **Ulkar Pizza**.
 
-### Pizza Menu JavaScript Assignment
+ Pizza Menu JavaScript Assignment
 
 Added JavaScript functionality to process the selected pizza size and toppings.
 
@@ -112,7 +112,7 @@ JavaScript is used to:
 - Generate an order receipt
 - Display the total price
 
-### Pizza Menu Vegetable Assignment
+ Pizza Menu Vegetable Assignment
 
 Expanded the original pizza application by adding a separate vegetable toppings section.
 
@@ -128,7 +128,7 @@ The final menu contains three sections:
 - Vegetables
 - Meats
 
-### Final Pizza Menu Project
+ Final Pizza Menu Project
 
 The completed Ulkar Pizza application combines HTML, CSS, and JavaScript into a fully functional pizza ordering webpage.
 
@@ -146,7 +146,7 @@ The final application demonstrates:
 - Event handling
 - Dynamic price calculations
 
-## Technologies Used
+Technologies Used
 
 - HTML5
 - CSS3
@@ -155,7 +155,7 @@ The final application demonstrates:
 - Git
 - GitHub
 
-## Skills Demonstrated
+ Skills Demonstrated
 
 Through these projects, I practiced:
 
@@ -169,5 +169,7 @@ Through these projects, I practiced:
 - Connecting HTML, CSS, and JavaScript files
 - Building interactive webpages
 - Using Git and GitHub for version control
+
+ Author
 
 Ulkar Alakbarova

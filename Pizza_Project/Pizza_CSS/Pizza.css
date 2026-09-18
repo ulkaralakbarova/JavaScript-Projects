@@ -1,0 +1,101 @@
+/* Ulkar Pizza - Pizza.css */
+
+body {
+    background-color: #f02f23;
+    margin: 0;
+}
+
+/* Main pizza menu */
+#menuBG {
+    width: 750px;
+    min-height: 550px;
+    margin: 10px auto;
+}
+
+/* Main title */
+h1 {
+    font-family: Georgia, "Times New Roman", serif;
+    color: white;
+    text-align: center;
+    font-size: 48px;
+}
+
+/* Section headings */
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 28px;
+}
+
+/* General text */
+div {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+/* Form containing the three menu columns */
+#frmMenu {
+    width: 750px;
+    min-height: 250px;
+    overflow: hidden;
+}
+
+/* SIZE */
+.menu.left {
+    width: 33.33%;
+    min-height: 230px;
+    float: left;
+}
+
+/* VEGETABLES */
+.menu.center {
+    width: 33.33%;
+    min-height: 230px;
+    float: left;
+}
+
+/* MEATS */
+.menu.right {
+    width: 33.33%;
+    min-height: 230px;
+    float: left;
+}
+
+/* Make menu choices easier to read */
+.menu {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+/* Place Order button */
+#btnOrder {
+    display: block;
+    margin: 20px auto 30px auto;
+    width: 150px;
+    height: 60px;
+    font-size: 20px;
+}
+
+/* Receipt area */
+#cart {
+    clear: both;
+    width: 750px;
+    min-height: 200px;
+    margin: 20px auto;
+}
+
+/* Ordered items */
+#showText {
+    width: 50%;
+    min-height: 190px;
+    float: left;
+    font-size: 20px;
+}
+
+/* Total */
+#totalPrice {
+    width: 50%;
+    min-height: 190px;
+    float: right;
+    font-size: 20px;
+}
